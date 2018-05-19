@@ -1,3 +1,4 @@
+'''Santiago Barros'''
 i=0
 while (i==0) :
     m = input("digite una tecla entre w,a,s,d")
